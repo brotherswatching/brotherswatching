@@ -1,10 +1,17 @@
+
+😄 Nice to meet you! This is my space for learning and sharing.  
+
+🌱 Currently practicing Git & GitHub, feel free to check my projects.  
+
 # About me
 
 Here are some ideas about me:
 
-- I’m currently working on machine learning, deep learning and computer vision.
+- I've worked on machine learning, deep learning(computer vision) and radar signal processing for more than one year to pursue my master's degree.
 
-- I’m looking to collaborate on LLM projects to practice what I've learned.
+- I’m looking to collaborate on LLM, VLM, RAG and AGENTS projects to practice what I've learned.
 
-- I'm trying to find a job about LLM engineering.
+❤️ Wish you have a nice day!
+
+
 
